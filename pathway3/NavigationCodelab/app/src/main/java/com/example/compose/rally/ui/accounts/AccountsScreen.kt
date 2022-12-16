@@ -79,4 +79,5 @@ fun SingleAccountScreen(
             color = row.color
         )
     }
+
 }
